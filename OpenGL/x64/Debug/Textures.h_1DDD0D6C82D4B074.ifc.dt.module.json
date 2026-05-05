@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "OpenGL\\x64\\Debug\\Textures.obj",
+            "outputs": [
+                "OpenGL\\x64\\Debug\\Textures.h_1DDD0D6C82D4B074.ifc.dt.module.json",
+                "OpenGL\\x64\\Debug\\Textures.h_1DDD0D6C82D4B074.ifc.dt.d.json",
+                "OpenGL\\x64\\Debug\\Textures.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\triax\\Documents\\VSCODE\\OpenGL\\OpenGL\\Textures.h",
+                    "source-path": "c:\\users\\triax\\documents\\vscode\\opengl\\opengl\\textures.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

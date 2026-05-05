@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "OpenGL\\x64\\Debug\\Textures.h.obj",
+            "outputs": [
+                "C:\\Users\\triax\\Documents\\VSCODE\\OpenGL\\OpenGL\\OpenGL\\x64\\Debug\\vc145.pdb",
+                "OpenGL\\x64\\Debug\\",
+                "C:\\Users\\triax\\Documents\\VSCODE\\OpenGL\\OpenGL\\OpenGL\\x64\\Debug\\Textures.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Textures.h",
+                    "source-path": "c:\\users\\triax\\documents\\vscode\\opengl\\opengl\\textures.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
