@@ -47,5 +47,11 @@
       <Filter>Shaders</Filter>
     </None>
     <None Include="packages.config" />
+    <None Include="shaders\lightfragment.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\lightvertex.glsl">
+      <Filter>Shaders</Filter>
+    </None>
   </ItemGroup>
 </Project>
